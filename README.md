@@ -1,7 +1,7 @@
 # About this project
 This repository contains the checkstyle file used during the development of all other [AutoStreams](https://github.com/AutoStreams) repositories.
 
-The checkstyle is based on the [Google checkstylestyle](https://checkstyle.sourceforge.io/google_style.html), but with indentation changed from 2 spaces to 4 spaces. 
+The checkstyle is based on the [Google checkstylestyle](https://github.com/checkstyle/checkstyle/blob/master/src/main/resources/google_checks.xml), but with indentation changed from 2 spaces to 4 spaces. 
 
 # Getting started
 First acquire this project by cloning the repository. Cloning this repository can be done by downloading [Git](https://git-scm.com/) then executing the command:
@@ -11,7 +11,7 @@ git clone https://github.com/AutoStreams/autostreams-checks.git
 ## Using Checkstyle with IntelliJ
 **Prerequisites**
 * Downlaod and install [IntelliJ Idea](https://www.jetbrains.com/idea/). Community edition is sufficient
-* Downlaod and install the [Checkstyle plugin](https://github.com/checkstyle/checkstyle/blob/master/src/main/resources/google_checks.xml). Version 10 or above is recommended due to compatability issues
+* Downlaod and install the [Checkstyle plugin](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea). Version 10 or above is recommended due to compatability issues
 
 After installing Checkstyle on your IntelliJ IDEA, Open the project where you want to use the AutoStreams Checkstyle rules.
 
