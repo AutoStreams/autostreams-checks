@@ -6,7 +6,7 @@ The checkstyle is based on the [Google checkstylestyle](https://checkstyle.sourc
 # Getting started
 First acquire this project by cloning the repository. Cloning this repository can be done by downloading [Git](https://git-scm.com/) then executing the command:
 ```
-git clone https://github.com/AutoStreams/prototype-pulsar.git
+git clone https://github.com/AutoStreams/autostreams-checks.git
 ```
 ## Using Checkstyle with IntelliJ
 **Prerequisites**
