@@ -8,9 +8,10 @@ First acquire this project by cloning the repository. Cloning this repository ca
 ```
 git clone https://github.com/AutoStreams/prototype-pulsar.git
 ```
+## Using Checkstyle with IntelliJ
 **Prerequisites**
 * Downlaod and install [IntelliJ Idea](https://www.jetbrains.com/idea/). Community edition is sufficient
-* Downlaod and install the [Checkstyle plugin](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea). Version 10 or above is recommended due to compatability issues
+* Downlaod and install the [Checkstyle plugin](https://github.com/checkstyle/checkstyle/blob/master/src/main/resources/google_checks.xml). Version 10 or above is recommended due to compatability issues
 
 After installing Checkstyle on your IntelliJ IDEA, Open the project where you want to use the AutoStreams Checkstyle rules.
 
